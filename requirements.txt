@@ -1,0 +1,2 @@
+textworld>=1.4
+pddlgym>=0.0.2
